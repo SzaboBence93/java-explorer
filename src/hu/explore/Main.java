@@ -1,4 +1,4 @@
-package com.company;
+package hu.explore;
 
 import java.util.List;
 import java.util.OptionalInt;

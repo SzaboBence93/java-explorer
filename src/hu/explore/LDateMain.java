@@ -1,4 +1,4 @@
-package com.company;
+package hu.explore;
 
 
 import java.time.Clock;

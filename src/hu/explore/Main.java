@@ -9,7 +9,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-
         int neszeTe = IntStream.range(1,10)
                 .filter(i -> i%2 == 0)
                 .map(i -> i*i)
